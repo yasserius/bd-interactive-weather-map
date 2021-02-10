@@ -7,6 +7,8 @@ Choropleth (heatmap) of weather data from 2011 Census by Bangladesh Bureau of St
 
 https://bd-weather-map.herokuapp.com/
 
+<br>
+
 ## Data
 
 Source: [[bbs.gov.bd]](http://www.bbs.gov.bd/site/page/2888a55d-d686-4736-bad0-54b70462afda/District-Statistics)
@@ -25,9 +27,13 @@ for the years 2008 to 2011.
 
 The shapefiles used for the choropleth can be found [here](https://github.com/yasserius/bangladesh_geojson_shapefile).
 
+<br>
+
 ## Tools
 
 This app was made using [Plotly Dash](https://plotly.com/dash/)
+
+<br>
 
 ## Related Projects
 
