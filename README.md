@@ -39,3 +39,4 @@ This app was made using [Plotly Dash](https://plotly.com/dash/)
 
 - [Bangladesh District Statistics Dataset](https://github.com/yasserius/bd_district_statistics_dataset)
 - [Bangladesh GeoJSON Shapefile](https://github.com/yasserius/bangladesh_geojson_shapefile)
+- [Dhaka Property Price Dashboard](https://github.com/yasserius/dhaka-property-prices-map)
